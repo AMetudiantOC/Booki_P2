@@ -1,9 +1,7 @@
 # Booki project
-
 Booki_P2 is a simple HTML web page for static content. It was created as a base for my study project at Openclassrooms, but everyone is welcome to use it. The implementation strives to be simple and without unnecessary dependencies.
 
 ## Goals
-----------
 * The search field is an input field, so the text must be editable by the user
 * Each accommodation or activity card is clickable in its entirety
 * Filters should change appearance on hover
@@ -11,7 +9,6 @@ Booki_P2 is a simple HTML web page for static content. It was created as a base 
 * Easy customization of site layout and formatting
 
 ## Technical specifications
-----------
 * The site is responsive 
 * It is adapted to the desktop, tablet and mobile formats without any element being cut off and the text being of sufficient size
 * The format and size of the images are adapted to the resolution and loading time
@@ -26,7 +23,6 @@ Booki_P2 is a simple HTML web page for static content. It was created as a base 
 * The code is not versioned
 
 ## Structure
-----------
 Each segment has been designed and thought independently from the rest in order to be reusable for other projects
 * `/head/` Entry point for the application, configures the development environment
 * `/HEADER/` Layout code for the navigation to the info point (which indicates the number of available accommodations in the city) 
@@ -41,7 +37,6 @@ Each segment has been designed and thought independently from the rest in order 
 * `/FOOTER/` The three lists of clickable links in the footer are grouped here
 
 ## Instructions
-----------
 1. Install [VScode](https://code.visualstudio.com/)  
 2. Fork and clone the repository  
 3. Make changes or use only one of the segments  
@@ -49,12 +44,10 @@ Each segment has been designed and thought independently from the rest in order 
 5. Deploy your own repository to a hosting service  
 
 ## Contributing
-----------
 * Fork and clone the repository
 * Modify code and make proposals
 * Review changes
 * Send a download request
 
 ## License
-----------
 [OPENCLASSROOMS](https://openclassrooms.com/fr/)
