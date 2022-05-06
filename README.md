@@ -46,6 +46,7 @@ Each segment has been designed and thought independently from the rest in order 
 ## Contributing
 * Fork and clone the repository
 * Modify code and make proposals
+* You have the possibility to change the size of the images
 * Review changes
 * Send a download request
 
